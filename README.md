@@ -1,7 +1,7 @@
 # README.md
 # AI Ant Colony Simulator
 
-![Ant Colony Simulator](https://via.placeholder.com/800x400?text=AI+Ant+Colony+Simulator)
+![Ant Colony Simulator](images/sample.png)
 
 ## Description
 
@@ -31,7 +31,7 @@ Unlike traditional ant colony simulations, the behavior rules in this simulator 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ant-colony-simulator.git
+git clone https://github.com/gcbirat12/ant-colony-simulator.git
 cd ant-colony-simulator
 ```
 
