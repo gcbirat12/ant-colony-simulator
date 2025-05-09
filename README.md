@@ -137,10 +137,6 @@ The simulator is designed to be easily extensible:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
 
 - This project was inspired by the study of swarm intelligence and emergent behavior in biological systems
